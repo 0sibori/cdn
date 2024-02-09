@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Taro",
+      "age": 30,
+      "languages": ["Japanese", "English"],
+      "active": true
+    },
+    {
+      "name": "Aiko",
+      "age": 33,
+      "languages": ["Japanese"],
+      "active": false
+    },
+    {
+      "name": "Hanako",
+      "age": 29,
+      "languages": ["English", "French"],
+      "active": true
+    }
+  ]
